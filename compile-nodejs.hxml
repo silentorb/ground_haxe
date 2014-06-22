@@ -1,0 +1,6 @@
+-cp src
+-lib nodejs
+-D nodejs haxeJSON
+-js output/nodejs/metahub.js
+-main ground.Main
+-debug
