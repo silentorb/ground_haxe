@@ -1,5 +1,4 @@
 -php output/php
 -cp src
--cp ../../metahub/hxclasses
--cp ../../metahub/hxclasses_std
+-cp ../../metahub/src
 -main ground.Main
